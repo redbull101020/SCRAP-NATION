@@ -5,7 +5,7 @@
 
 2D Side-scrolling Colony Sim / Survival Strategy / Base Building
 
-**Статус:** Pre-production · Concept / Pre-GDD v0.2 · 26.11.2026. Unity-проект ещё не загружен; играбельного билда нет.
+**Концепция:** Pre-GDD v0.2. Текущая стадия, состояние билда и следующий шаг: [PROJECT_STATUS.md](PROJECT_STATUS.md).
 
 | Движок | Рендер | Язык | Первая платформа |
 | --- | --- | --- | --- |
@@ -68,6 +68,8 @@ flowchart TD
 
 **[AGENTS.md](AGENTS.md)** — обязательный короткий регламент для разработчиков и AI-агентов.
 
+[PROJECT_STATUS.md](PROJECT_STATUS.md) — оперативное состояние проекта. [DocumentationPolicy.md](Docs/DocumentationPolicy.md) — когда создавать и обновлять ADR, отчёты экспериментов, плейтесты и остальные документы. Задачи и дефекты отслеживаются в [GitHub Issues](https://github.com/redbull101020/SCRAP-NATION/issues).
+
 | Геймдизайн | Архитектура |
 | --- | --- |
 | [Концепция и мир](Docs/GameDesign/Concept.md) | [Обзор и границы модулей](Docs/Architecture/Overview.md) |
@@ -88,7 +90,7 @@ flowchart TD
    cd SCRAP-NATION
    ```
 4. Через Unity Hub открыть каталог, содержащий `Assets`, `Packages` и `ProjectSettings`; дождаться импорта.
-5. Прочитать AGENTS.md и документацию затронутой системы. Когда появится сцена прототипа, открыть её и запустить Play Mode.
+5. Прочитать AGENTS.md, PROJECT_STATUS.md и документацию затронутой системы. Когда появится сцена прототипа, открыть её и запустить Play Mode.
 
 Точная версия редактора, установленные пакеты и реальные пути определяются файлами проекта, а не предварительным планом.
 
