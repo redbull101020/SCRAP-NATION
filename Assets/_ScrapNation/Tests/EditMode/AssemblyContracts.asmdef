@@ -1,0 +1,1 @@
+{"name":"ScrapNation.AssemblyContracts","references":["ScrapNation.HumanoidAssembly"],"includePlatforms":["Editor"],"optionalUnityReferences":["TestAssemblies"]}
