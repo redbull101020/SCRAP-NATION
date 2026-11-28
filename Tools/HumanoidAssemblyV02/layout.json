@@ -1,0 +1,185 @@
+{
+  "parts": [
+    {
+      "name": "Neck",
+      "joint": "Neck",
+      "order": 44,
+      "enabled": true,
+      "offsetX": -1.5,
+      "offsetY": 22.5,
+      "shared": true
+    },
+    {
+      "name": "Torso",
+      "joint": "Spine",
+      "order": 40,
+      "enabled": true,
+      "offsetX": -3.5,
+      "offsetY": 72.0,
+      "shared": true
+    },
+    {
+      "name": "Pelvis",
+      "joint": "Pelvis",
+      "order": 30,
+      "enabled": true,
+      "offsetX": 1.5,
+      "offsetY": -14.0,
+      "shared": true
+    },
+    {
+      "name": "Scarf",
+      "joint": "Neck",
+      "order": 55,
+      "enabled": false,
+      "offsetX": 3.5,
+      "offsetY": -21.0,
+      "shared": true
+    },
+    {
+      "name": "Head",
+      "joint": "Head",
+      "order": 52,
+      "enabled": true,
+      "offsetX": 6.5,
+      "offsetY": 62.5,
+      "shared": true
+    },
+    {
+      "name": "Thigh_Near",
+      "joint": "Thigh_Near",
+      "order": 26,
+      "enabled": true,
+      "offsetX": -5.0,
+      "offsetY": -48.0
+    },
+    {
+      "name": "Shin_Near",
+      "joint": "Shin_Near",
+      "order": 24,
+      "enabled": true,
+      "offsetX": -12.5,
+      "offsetY": -74.0
+    },
+    {
+      "name": "Foot_Near",
+      "joint": "Foot_Near",
+      "order": 23,
+      "enabled": false,
+      "offsetX": 13.5,
+      "offsetY": -27.0
+    },
+    {
+      "name": "Boot_Near",
+      "joint": "Foot_Near",
+      "order": 25,
+      "enabled": true,
+      "offsetX": 10.5,
+      "offsetY": -21.5
+    },
+    {
+      "name": "UpperArm_Near",
+      "joint": "UpperArm_Near",
+      "order": 42,
+      "enabled": true,
+      "offsetX": -15.5,
+      "offsetY": -33.0
+    },
+    {
+      "name": "Forearm_Near",
+      "joint": "Forearm_Near",
+      "order": 43,
+      "enabled": true,
+      "offsetX": -5.5,
+      "offsetY": -40.0
+    },
+    {
+      "name": "Hand_Near",
+      "joint": "Hand_Near",
+      "order": 44,
+      "enabled": true,
+      "offsetX": 11.0,
+      "offsetY": -28.5
+    },
+    {
+      "name": "Jacket_Sleeve_Near",
+      "joint": "UpperArm_Near",
+      "order": 45,
+      "enabled": false,
+      "offsetX": -8.5,
+      "offsetY": -27.5
+    },
+    {
+      "name": "Thigh_Far",
+      "joint": "Thigh_Far",
+      "order": 15,
+      "enabled": true,
+      "offsetX": 8.0,
+      "offsetY": -49.0
+    },
+    {
+      "name": "Shin_Far",
+      "joint": "Shin_Far",
+      "order": 13,
+      "enabled": true,
+      "offsetX": -1.0,
+      "offsetY": -70.5
+    },
+    {
+      "name": "Foot_Far",
+      "joint": "Foot_Far",
+      "order": 12,
+      "enabled": false,
+      "offsetX": 26.5,
+      "offsetY": -27.0
+    },
+    {
+      "name": "Boot_Far",
+      "joint": "Foot_Far",
+      "order": 14,
+      "enabled": true,
+      "offsetX": 23.0,
+      "offsetY": -22.5
+    },
+    {
+      "name": "UpperArm_Far",
+      "joint": "UpperArm_Far",
+      "order": 8,
+      "enabled": true,
+      "offsetX": 13.0,
+      "offsetY": -35.0
+    },
+    {
+      "name": "Forearm_Far",
+      "joint": "Forearm_Far",
+      "order": 9,
+      "enabled": true,
+      "offsetX": 12.5,
+      "offsetY": -35.5
+    },
+    {
+      "name": "Hand_Far",
+      "joint": "Hand_Far",
+      "order": 10,
+      "enabled": true,
+      "offsetX": 7.5,
+      "offsetY": -30.0
+    },
+    {
+      "name": "Jacket_Sleeve_Far",
+      "joint": "UpperArm_Far",
+      "order": 11,
+      "enabled": false,
+      "offsetX": 11.5,
+      "offsetY": -29.5
+    },
+    {
+      "name": "Jacket_Torso",
+      "joint": "Spine",
+      "order": 40,
+      "enabled": false,
+      "offsetX": 1.5,
+      "offsetY": 71.0
+    }
+  ]
+}
