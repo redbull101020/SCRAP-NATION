@@ -1,0 +1,32 @@
+{
+  "Idle": {
+    "phases": 48,
+    "variants": 16,
+    "mirror_iou_min": 1.0,
+    "min_changed_pixels": {
+      "scarf": 272,
+      "boots": 1322,
+      "coat": 2744
+    }
+  },
+  "Walk": {
+    "phases": 48,
+    "variants": 16,
+    "mirror_iou_min": 0.9998783898820381,
+    "min_changed_pixels": {
+      "scarf": 270,
+      "boots": 1300,
+      "coat": 2652
+    }
+  },
+  "Work": {
+    "phases": 48,
+    "variants": 16,
+    "mirror_iou_min": 1.0,
+    "min_changed_pixels": {
+      "scarf": 269,
+      "boots": 1322,
+      "coat": 2246
+    }
+  }
+}
